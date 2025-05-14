@@ -1,0 +1,10 @@
+QPushButton {
+    padding: 5px;
+    margin: 2px;
+    font-size: 14px;
+}
+
+QMenuBar {
+    background-color: #333;
+    color: white;
+}
